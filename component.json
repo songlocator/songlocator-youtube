@@ -1,0 +1,11 @@
+{
+  "name": "songlocator-youtube",
+  "version": "0.1.0",
+  "description": "SongLocator resolver for YouTube",
+  "tags": ["songlocator", "api", "music", "streaming", "audio", "resolver", "youtube"],
+  "author": "Andrey Popp <8mayday@gmail.com>",
+  "main": ["./songlocator-youtube.js"],
+  "dependencies": {
+    "songlocator-base": "~0.1.1"
+  }
+}
